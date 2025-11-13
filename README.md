@@ -2,6 +2,10 @@
 
 November 9, 2025.
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](https://ai.google.dev/) [![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?logo=google&logoColor=fff)](https://ai.google.dev/gemini-api) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![ADK](https://img.shields.io/badge/ADK-4285F4?logo=google&logoColor=fff)](https://google.github.io/adk-docs/)
+
+
+
 ## How the Course Works
 
 The course is designed to be flexible and interactive, allowing you to learn at your own pace while benefiting from live sessions and community engagement.
